@@ -23,5 +23,5 @@ def convert_markdown(input_file):
     print(f"변환 완료: {output_file}")
 
 
-input_file = "test.md"
+input_file = "./test.md"
 convert_markdown(input_file)
